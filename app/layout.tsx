@@ -3,7 +3,7 @@ import './globals.css'
 
 export const metadata: Metadata = {
   title: 'Code2Grade',
-  description: 'Code2Grade',
+  description: 'Created with Code2Grade',
   generator: 'Code2Grade',
 }
 
